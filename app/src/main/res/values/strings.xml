@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyFamily</string>
+    <string name="sos">SOS</string>
+    <string name="guard">Guard</string>
+    <string name="in_case_of_emergency_keep_telling_family_members_to_contact_me">In case of emergency, keep telling family members to contact me</string>
+    <string name="oops_you_are_on_a_potentially_dangerous_journey">Oops! You are on a potentially dangerous journey</string>
+    <string name="security">Security</string>
+    <string name="home">Home</string>
+    <string name="dashboard">dashboard</string>
+    <string name="Guard_bar">guard</string>
+    <string name="profile">profile</string>
+    <string name="my_family">My Family</string>
+    <string name="name_1_card">Harshal Sharma</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
